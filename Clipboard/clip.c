@@ -150,7 +150,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 		hwnd, NULL, hInstance, NULL);
 
 	//print(Bufor);
-
+	//lalalalalalalalalalalalalalalalalla
 
 	if (hwnd == NULL)
 	{
